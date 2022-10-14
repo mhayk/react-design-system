@@ -18,3 +18,8 @@ $ npx sb init --builder @storybook/builder-vite --use-npm
 ## Storybook documentation with Github Pages
 
 * https://mhayk.github.io/react-design-system/
+
+### Jest
+```
+$ npm run test-storybook -- --watch
+```
