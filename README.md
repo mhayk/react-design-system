@@ -14,3 +14,7 @@ $ npx sb init --builder @storybook/builder-vite --use-npm
 * [Tailwind CSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 * [PostCSS Language Support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss)
 * [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
+
+## Storybook documentation with Github Pages
+
+* https://mhayk.github.io/react-design-system/
