@@ -1,5 +1,13 @@
 import { themes } from '@storybook/theming'
 
+import { initialize, mswDecorator } from 'msw-storybook-addon';
+
+initialize({
+  onUnhandledRequest: 'bypass'
+});
+
+export const decorators = [mswDecorator];
+
 import '../src/styles/global.css';
 
 export const parameters = {
